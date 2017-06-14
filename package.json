@@ -1,0 +1,31 @@
+{
+  "name": "excel-opt-nodejs",
+  "version": "0.0.1",
+  "description": "nodejs read and write excel file",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanhaiqiang/excel-opt-nodejs.git"
+  },
+  "keywords": [
+    "excel",
+    "nodejs",
+    "xlsx",
+    "xls"
+  ],
+  "author": "rill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruanhaiqiang/excel-opt-nodejs/issues"
+  },
+  "homepage": "https://github.com/ruanhaiqiang/excel-opt-nodejs#readme",
+  "dependencies": {
+    "xlsx":"~0.10.5"
+  },
+  "devDependencies": {
+    "@types/xlsx": "^0.0.34"
+  }
+}
